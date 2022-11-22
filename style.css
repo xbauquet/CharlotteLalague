@@ -30,6 +30,7 @@ h4 {
     vertical-align: middle;
     line-height: 1px;
     margin-right: 5px;
+    display: inline-block !important;
 }
 
 .red-filter {
